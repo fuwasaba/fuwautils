@@ -1,0 +1,7 @@
+name: fuwautils
+version: '${project.version}'
+main: com.keikun1215.fuwautils.Fuwautils
+api-version: '1.18'
+commands:
+  managers:
+    description: A command manages fuwasaba
